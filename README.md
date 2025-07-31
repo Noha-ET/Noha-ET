@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Noha+Mathios!;" />
 </h1>
 
-<h3 align="center">A passionate developer from Ethiopia 🇨🇦</h3>
+<h3 align="center">A passionate developer from Ethiopia 🇪🇹</h3>
 
 <br/>
 
@@ -35,11 +35,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,arch,cpp,git,linux" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,md,neovim,framer,webflow" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,md,neovim,webflow" /><br>
 </div>
 
 <br/>
 <hr/>
-
-
-<br/>
