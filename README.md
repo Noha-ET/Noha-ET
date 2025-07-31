@@ -1,30 +1,45 @@
-# 👋 Hi, I'm Noah Matthew
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Noha-ET.Noha-ET" />
 
-I'm a passionate developer, tech enthusiast, and lifelong learner from Ethiopia 🇪🇹
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Noha+Mathios!;" />
+</h1>
 
-## 🚀 Tech Stack
+<h3 align="center">A passionate developer from Ethiopia 🇨🇦</h3>
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+<br/>
 
-## 📈 GitHub Stats
+<div align="center">
+ 
+ 🔭 I’m currently working on **different projects**
+ 
+ 🌱 I’m currently learning **JavaScript, Framer, Webflow,**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=tokyonight&hide_border=false" />
-</p>
+💬 Help a beginner out or ask me questions about anything **[here](https://github.com/Noha-ET/Noha-ET/issues)**
 
-## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🐦 [Twitter/X](https://twitter.com/your-handle)
-- 🌐 [Portfolio](https://yourwebsite.com)
-- 📧 Email: your.email@example.com
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:nohaytr@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+ 
+  <a href="https://Noha-ET.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
----
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,arch,cpp,git,linux" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,md,neovim,framer,webflow" /><br>
+</div>
 
-> ⚡ Fun fact: I break things just to fix them better!
+<br/>
+<hr/>
+
+
+<br/>
