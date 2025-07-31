@@ -24,8 +24,8 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
  
-  <a href="https://Noha-ET.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://www.instagram.com/n0ah.nm/profilecard/?igsh=YWhzYWptMWJkNjkx" target="_blank">
+     <img src="https://img.shields.io/badge/IG-FF5722?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
